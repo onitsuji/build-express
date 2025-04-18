@@ -1,0 +1,24 @@
+{
+  "name": "build-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onitsuji/build-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/onitsuji/build-express/issues"
+  },
+  "homepage": "https://github.com/onitsuji/build-express#readme",
+  "dependencies": {
+    "methods": "^1.1.2"
+  }
+}
